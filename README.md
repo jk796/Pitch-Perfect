@@ -1,6 +1,6 @@
 # Pitch-Perfect
 ## Udacity.com ios Nanodegree project 1
-Swift Language Version: Swift 5
+Swift Language Version: Swift 5<br/>
 Xcode Version: 11.3.1
 
 ## Application Description
