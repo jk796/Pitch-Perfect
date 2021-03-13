@@ -5,9 +5,9 @@
 This app records a sound and plays it back with different types of effects(snail, rabbit, chipmunk, Darth Vader, echo, and reverb) based on user's input.
 
 ## Learned features on this project
-AutoLayout and Buttons
-ViewController and Multiple Views
-Delegation and Recording
+AutoLayout and Buttons<br/>
+ViewController and Multiple Views<br/>
+Delegation and Recording<br/>
 Playback and Audio Effects
 
 ## Application Screenshots
